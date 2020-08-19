@@ -1,0 +1,11 @@
+100YWeather.json filter=lfs diff=lfs merge=lfs -text
+Citibike.json filter=lfs diff=lfs merge=lfs -text
+NYCFacilities.json filter=lfs diff=lfs merge=lfs -text
+Titanic.json filter=lfs diff=lfs merge=lfs -text
+movieDetails.json filter=lfs diff=lfs merge=lfs -text
+Player.csv filter=lfs diff=lfs merge=lfs -text
+AirRoutes.json filter=lfs diff=lfs merge=lfs -text
+Orders.json filter=lfs diff=lfs merge=lfs -text
+Retail.json filter=lfs diff=lfs merge=lfs -text
+Shipwrecks.json filter=lfs diff=lfs merge=lfs -text
+pokemon-cards.json filter=lfs diff=lfs merge=lfs -text
